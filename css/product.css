@@ -13,6 +13,8 @@
     font-size: 2rem;
     display: grid;
     place-items: center;
+    color: #76045D;
+    font-weight: 700;
 }
 
 .product__image {
